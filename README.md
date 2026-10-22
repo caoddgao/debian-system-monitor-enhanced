@@ -1,4 +1,4 @@
-# System Monitor Enhanced
+# Debian System Monitor Enhanced
 
 [中文](#中文说明) · [English](#english) · [构建与安装 / Build and install](#build-and-install)
 
