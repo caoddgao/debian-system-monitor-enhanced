@@ -1,0 +1,13 @@
+.loadgraph {
+  background: linear-gradient(to bottom,
+                var(--window-bg-color),
+                var(--view-bg-color));
+  color: var(--window-fg-color);
+}
+
+/* Libadwaita semantic palette follows light and dark theme changes. */
+.metric-normal { color: var(--success-color); }
+.metric-elevated { color: var(--warning-color); }
+.metric-warning { color: var(--error-color); }
+.metric-accent { color: var(--accent-color); }
+.metric-neutral { opacity: .65; }
